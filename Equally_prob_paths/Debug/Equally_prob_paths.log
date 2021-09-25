@@ -1,6 +1,0 @@
-﻿  stdafx.cpp
-  Equally_prob_paths.cpp
-d:\mi\documents\equally_prob_paths\equally_prob_paths\equally_prob_paths.cpp(456): warning C4018: <: несоответствие типов со знаком и без знака
-d:\mi\documents\equally_prob_paths\equally_prob_paths\equally_prob_paths.cpp(457): warning C4018: <: несоответствие типов со знаком и без знака
-d:\mi\documents\equally_prob_paths\equally_prob_paths\equally_prob_paths.cpp(549): warning C4018: <: несоответствие типов со знаком и без знака
-  Equally_prob_paths.vcxproj -> D:\mi\Documents\Equally_prob_paths\Debug\Equally_prob_paths.exe
