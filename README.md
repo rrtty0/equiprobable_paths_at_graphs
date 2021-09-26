@@ -49,7 +49,7 @@ Let the input be a directed graph and two of its vertices. Solving the problem o
 Example of work:
 
 
-![code](./docs/scheme_fo_readme.png)
+![image](./docs/scheme_for_readme.png)
 
 <a id="anc5"></a>
 
